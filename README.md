@@ -12,6 +12,7 @@ python-pushover==0.4
 matplotlib==3.7.2
 numpy==1.25.2
 ```
+`python-pushover` is optional, which is a real-time notifications on mobile phone.
 ## Citing
 just accepted, still wait for the pages
 ```latex
