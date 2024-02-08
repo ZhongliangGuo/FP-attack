@@ -174,7 +174,7 @@ pbar.close()
 
 print(r'Attack finished, total success rate: {} \ {} = {:.2%}'.format(acc_item, len(loader), acc_item / len(loader)))
 
-client = Client(config_path=os.path.join(current_script_dir, r'configs/pushover.conf'), profile='S23U')
+client = Client(config_path=os.path.join(current_script_dir, r'configs/pushover.conf'), profile='MyPhone')
 msg = 'Starting "{} attack" on dataset "{}", targeting on the data pairs have label = {}\n'.format(args.attack_method,
                                                                                                    args.dataset,
                                                                                                    args.attack_label)
