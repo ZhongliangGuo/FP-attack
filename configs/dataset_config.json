@@ -1,0 +1,14 @@
+{
+  "CEDAR": {
+    "label": "test_attack.csv",
+    "data_path": "CEDAR",
+    "model_path": "signet_cedar.pth",
+    "threshold": 0.0314
+  },
+  "Bengali": {
+    "label": "test_attack.csv",
+    "data_path": "BHSig260/Bengali",
+    "model_path": "signet_bengali.pth",
+    "threshold": 0.03
+  }
+}
