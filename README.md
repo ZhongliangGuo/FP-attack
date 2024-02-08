@@ -4,7 +4,7 @@ This repository is for the paper `A White-Box False Positive Adversarial Attack 
 ## Cite
 just accepted, still waiting for the pages
 ```latex
-@InProceedings{pmlr-v206-awasthi23c,
+@InProceedings{guo2024white,
   title = 	 {A White-Box False Positive Adversarial Attack Method on Contrastive Loss Based Offline Handwritten Signature Verification Models},
   author =       {Guo, Zhongliang and Li, Weiye and Qian, Yifei and Arandjelovi{\'c}, Ognjen and Fang, Lei},
   booktitle={International Conference on Artificial Intelligence and Statistics},
