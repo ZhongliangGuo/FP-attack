@@ -1,5 +1,5 @@
 # A White-Box False Positive Adversarial Attack Method on Contrastive Loss Based Offline Handwritten Signature Verification Models
-This repository is for the paper in **The 27th International Conference on Artificial Intelligence and Statistics (AISTATS 2024)**.
+This repository is for the paper in **the 27th International Conference on Artificial Intelligence and Statistics (AISTATS 2024)**.
 ![](arch.png)
 ## Environment
 ```
