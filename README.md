@@ -20,9 +20,10 @@ just accepted, still wait for the pages
 @InProceedings{guo2024white,
   title = {A White-Box False Positive Adversarial Attack Method on Contrastive Loss Based Offline Handwritten Signature Verification Models},
   author = {Guo, Zhongliang and Li, Weiye and Qian, Yifei and Arandjelovi{\'c}, Ognjen and Fang, Lei},
-  booktitle = {International Conference on Artificial Intelligence and Statistics},
+  booktitle = {Proceedings of The 26th International Conference on Artificial Intelligence and Statistics},
+  volume = 	 {206},
   pages = {TBD--TBD},
   year = {2024},
-  organization = {PMLR}
+  publisher = {PMLR}
 }
 ```
