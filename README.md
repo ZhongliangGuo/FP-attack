@@ -18,12 +18,14 @@ numpy==1.25.2
 just accepted, still wait for the pages
 ```latex
 @InProceedings{guo2024white,
-  title = {A White-Box False Positive Adversarial Attack Method on Contrastive Loss Based Offline Handwritten Signature Verification Models},
-  author = {Guo, Zhongliang and Li, Weiye and Qian, Yifei and Arandjelovi{\'c}, Ognjen and Fang, Lei},
-  booktitle = {Proceedings of The 26th International Conference on Artificial Intelligence and Statistics},
-  volume = {TBD},
-  pages = {TBD--TBD},
-  year = {2024},
-  publisher = {PMLR}
+  title={A White-Box False Positive Adversarial Attack Method on Contrastive Loss Based Offline Handwritten Signature Verification Models},
+  author={Guo, Zhongliang and Li, Weiye and Qian, Yifei and Arandjelovic, Ognjen and Fang, Lei},
+  booktitle={Proceedings of The 27th International Conference on Artificial Intelligence and Statistics},
+  pages={901--909},
+  year={2024},
+  volume={238},
+  month={02--04 May},
+  publisher={PMLR},
 }
+
 ```
