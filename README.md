@@ -15,7 +15,6 @@ numpy==1.25.2
 ```
 `python-pushover` is optional, which is a real-time notifications on mobile phone.
 ## Citing
-just accepted, still wait for the pages
 ```latex
 @InProceedings{guo2024white,
   title={A White-Box False Positive Adversarial Attack Method on Contrastive Loss Based Offline Handwritten Signature Verification Models},
